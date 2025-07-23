@@ -8,7 +8,7 @@
         compatible = "zmk,combos";
 
         to_layer7 {
-            bindings = <&to 7>;
+            bindings = <&tog 7>;
             key-positions = <33 10>;
         };
     };
